@@ -124,6 +124,19 @@ const IndexPage = () => {
                             </div>
                         </div>
                     </div>
+                    <div class="sm:flex items-center shadow-md mt-10">
+                        <div>
+                        <img class="bg-cover" src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="" />
+                        </div>
+                        <div class="md:px-10 sh sm:px-5">
+                        <h1 class="text-gray-800 font-bold text-2xl my-2">LOREM IPDSUM</h1>
+                        <p class="text-gray-700 mb-2 md:mb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <div class="flex justify-between mb-2">
+                            <span class="font-thin text-sm">May 20th 2022</span>
+                            <span class="sm:block hidden mb-2 text-gray-800 font-bold">Read more</span>
+                        </div>
+                        </div>
+                     </div>
                 </span>
             </main>
 
