@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/landing_page_dra_issis",
   siteMetadata: {
       title: `Issis' Research Group`,
     siteUrl: `https://www.yourdomain.tld`
